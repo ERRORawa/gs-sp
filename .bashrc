@@ -1,0 +1,1 @@
+cd gs-sp && java -jar Geyser-Standalone.jar
